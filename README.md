@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Edward, 
+Curerntly studying Machine Learning at the University of Toronto.
+Exploring Machine Learning, Biology and technology in general
+Reach me @:
+proliphany on twitter
+
+
 <!--
 **EdwardY/EdwardY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
